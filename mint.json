@@ -25,10 +25,17 @@
     "name": "Dashboard",
     "url": "https://dashboard.mintlify.com"
   },
+  "primaryTab": {
+    "name": "Product Guides",
+},
   "tabs": [
     {
       "name": "API Reference",
       "url": "api-reference"
+    },
+    {
+      "name": "SDK Guides",
+      "url": "sdk-guides"
     }
   ],
   "anchors": [
