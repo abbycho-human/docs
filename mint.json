@@ -26,8 +26,8 @@
     "url": "https://dashboard.mintlify.com"
   },
   "primaryTab": {
-    "name": "Product Guides",
-},
+    "name": "Product Guides"
+  },
   "tabs": [
     {
       "name": "API Reference",
