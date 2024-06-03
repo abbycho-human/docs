@@ -76,6 +76,12 @@
       ]
     },
     {
+      "group": "Server-side integrations",
+      "pages": [
+          "server-side-integrations/install-the-cloudflare-enforcer"
+      ]
+    },
+    {
       "group": "API Documentation",
       "pages": [
         "api-reference/introduction"
